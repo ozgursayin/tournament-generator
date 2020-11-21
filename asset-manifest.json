@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tournament-generator/static/css/main.dc0136b7.chunk.css",
+    "main.js": "/tournament-generator/static/js/main.f403d7a6.chunk.js",
+    "main.js.map": "/tournament-generator/static/js/main.f403d7a6.chunk.js.map",
+    "runtime-main.js": "/tournament-generator/static/js/runtime-main.32777540.js",
+    "runtime-main.js.map": "/tournament-generator/static/js/runtime-main.32777540.js.map",
+    "static/css/2.632c9fdd.chunk.css": "/tournament-generator/static/css/2.632c9fdd.chunk.css",
+    "static/js/2.7d8b5377.chunk.js": "/tournament-generator/static/js/2.7d8b5377.chunk.js",
+    "static/js/2.7d8b5377.chunk.js.map": "/tournament-generator/static/js/2.7d8b5377.chunk.js.map",
+    "static/js/3.afa64c5a.chunk.js": "/tournament-generator/static/js/3.afa64c5a.chunk.js",
+    "static/js/3.afa64c5a.chunk.js.map": "/tournament-generator/static/js/3.afa64c5a.chunk.js.map",
+    "index.html": "/tournament-generator/index.html",
+    "static/css/2.632c9fdd.chunk.css.map": "/tournament-generator/static/css/2.632c9fdd.chunk.css.map",
+    "static/css/main.dc0136b7.chunk.css.map": "/tournament-generator/static/css/main.dc0136b7.chunk.css.map",
+    "static/js/2.7d8b5377.chunk.js.LICENSE.txt": "/tournament-generator/static/js/2.7d8b5377.chunk.js.LICENSE.txt",
+    "static/media/winner.79928d50.png": "/tournament-generator/static/media/winner.79928d50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32777540.js",
+    "static/css/2.632c9fdd.chunk.css",
+    "static/js/2.7d8b5377.chunk.js",
+    "static/css/main.dc0136b7.chunk.css",
+    "static/js/main.f403d7a6.chunk.js"
+  ]
+}
