@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../tictactoe"
+	},
+	{
+		"path": "../../../burger-builder-server"
+	}
+],
+  "settings": {}
+}
