@@ -39,7 +39,6 @@ const Teams = () => {
       n /= 2;
       arr.push(leg);
     });
-    setTeams(arr);
     setLaps((lap) => lap + 1);
     let newState = [...arr];
     newState[0] = startingTeams;
@@ -64,7 +63,7 @@ const Teams = () => {
       t ? (allScores[i] = Math.ceil(Math.random() * 100)) : null
     );
     allTeams[laps - 1].forEach((t, i) => (t.score = allScores[i]));
-    setTeams((prevState) => (prevState = allTeams));
+    setTeams(allTeams);
     setIsScore((prevState) => !prevState);
   };
 
@@ -87,7 +86,7 @@ const Teams = () => {
         : winners.push((newState[i - 1][j * 2 + 1].status = "winner"));
     }
 
-    // Set qualified teams with new score and status
+    // Set qualified teams with default score and status
     const qualifiedTeams = JSON.parse(JSON.stringify(result));
     qualifiedTeams.length > 1
       ? qualifiedTeams.forEach((t) => {
